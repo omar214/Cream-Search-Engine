@@ -1,2 +1,4 @@
 # Cream-Search-Engine
- This is a search engine implemented using java.
+  Full-stack website that mimics Google Search engine.
+  
+
